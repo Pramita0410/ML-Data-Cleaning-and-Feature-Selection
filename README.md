@@ -1,7 +1,10 @@
 # ML-Data-Cleaning-and-Feature-Selection
 In this, I used the bank-addition.csv dataset for predictive learning and check the quality of the data and determine which features are important.
-Visualized the data and tried to find the answers of the below questions
-What are the data types? (Only numeric and categorical)
+
+
+Visualized the data and tried to find the answers of the below questions:
+
+* What are the data types? (Only numeric and categorical)
 
 * Are there missing values?
 
