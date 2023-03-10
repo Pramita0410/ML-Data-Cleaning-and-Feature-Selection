@@ -22,7 +22,7 @@ Visualized the data and tried to find the answers of the below questions:
 
 * Do the ranges of the predictor variables make sense?
 
-* What are the distributions of the predictor variables?   
+* What are the distributions of the predictor variables?  
 
 * Remove outliers and keep outliers (does if have an effect of the final predictive model)?
 
